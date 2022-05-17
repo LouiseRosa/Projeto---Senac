@@ -1,0 +1,25 @@
+
+#CorHexa {
+  
+    color: #f0f0f0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serifLucida Grande', 'Lucida Sans Unicode;
+    font-size: 80px;
+    
+}
+
+#ModeloCaixa {
+    background-color: rgb(255, 255, 255);
+    border-style:groove;
+    border-left: #9c5b25;
+    border-width: 5px 10px;
+    border-radius: 6px;
+    font-size: 60px;
+}
+
+a:visited {
+    color:rgb(26, 2, 245)
+}    
+body {
+    background-image: url(senac.png);
+
+}
